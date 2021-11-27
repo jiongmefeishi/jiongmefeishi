@@ -3,16 +3,7 @@
 <h4 align="center">其中包括腾讯，阿里，字节跳动，百度，京东，美团等一线大厂。</h4>
 
 <h5 align="center">（<a href="./面试真题分类汇总/数据统计来源说明.md" target="_blank">数据统计来源说明</a>）</h5>
-
-
-<h4 align="center">按收录大厂查看</h4>
-
-<h6 align="center">⚡ <a href="./大厂高频面试真题/阿里/目录.md" target="_blank">阿里</a></h6>
-<h6 align="center">⚡ <a href="./大厂高频面试真题/百度/目录.md" target="_blank">百度</a></h6>
-<h6 align="center">⚡ <a href="./大厂高频面试真题/京东/目录.md" target="_blank">京东</a></h6>
-<h6 align="center">⚡ <a href="./大厂高频面试真题/美团/目录.md" target="_blank">美团</a></h6>
-<h6 align="center">⚡ <a href="./大厂高频面试真题/腾讯/目录.md" target="_blank">腾讯</a></h6>
-<h6 align="center">⚡ <a href="./大厂高频面试真题/字节跳动/目录.md" target="_blank">字节跳动</a></h6>
+---
 
 <h4 align="center">按收录题型体系查看</h4>
 
@@ -29,6 +20,18 @@
 <h6 align="center">⚡ <a href="./面试真题分类汇总/网络协议.md" target="_blank">网络协议</a></h6>
 <h6 align="center">⚡ <a href="./面试真题分类汇总/系统设计场景题.md" target="_blank">系统设计场景题</a></h6>
 
+
+<h4 align="center">按收录大厂查看</h4>
+
+<h6 align="center">⚡ <a href="./大厂高频面试真题/阿里/目录.md" target="_blank">阿里</a></h6>
+<h6 align="center">⚡ <a href="./大厂高频面试真题/百度/目录.md" target="_blank">百度</a></h6>
+<h6 align="center">⚡ <a href="./大厂高频面试真题/京东/目录.md" target="_blank">京东</a></h6>
+<h6 align="center">⚡ <a href="./大厂高频面试真题/美团/目录.md" target="_blank">美团</a></h6>
+<h6 align="center">⚡ <a href="./大厂高频面试真题/腾讯/目录.md" target="_blank">腾讯</a></h6>
+<h6 align="center">⚡ <a href="./大厂高频面试真题/字节跳动/目录.md" target="_blank">字节跳动</a></h6>
+
+
+---
 
 <h6 align="center"> 📫 联系我       jiongmefeishi@163.com </h6>
 <h6 align="center"> 🤝 </h6>
